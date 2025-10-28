@@ -10,7 +10,6 @@ TO DRAW THE STAR UML DIAGRAM FOR HOSPITAL MANAGEMENT SYSTEM AND ITS FUNCTIONS.
 3.Implement modules for patients, doctors, and billing.
 
 4.Test the system and generate the final report.
-
 ## DIAGRAMS:
 ## 1.USE CASE DIAGRAM:
 
